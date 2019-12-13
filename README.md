@@ -2,7 +2,7 @@
 inf551_final_project
 
 In addition to the python standard library, this project also requires these packages:
-  - numpy, pandas, selenium, BeautifulSoup, requests, basemap, folium
+  - numpy, pandas, selenium, BeautifulSoup, requests, basemap, folium, seaborn, matplotlib
  
 
 After downloading the Python files and data files and putting them under the same directory, then we can execute them in command line like this way:
