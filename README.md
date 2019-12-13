@@ -7,6 +7,12 @@ In addition to the python standard library, this project also requires these pac
 
 After downloading the Python files and data files and putting them under the same directory, then we can execute them in command line like this way:
 
+# Activate environment (in command line)**
+   
+  To activate this environment, use
+    
+- conda activate environment
+
 # Scrape and store data
 
 # 1.Scrape data remotely
@@ -36,7 +42,9 @@ After downloading the Python files and data files and putting them under the sam
 
  This part is showen in zhufeng_qiu.ipynb
  
-
+# Deactivate current environment (in command line)**
+   
+- conda deactivate
 
 # ################
 
