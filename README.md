@@ -67,4 +67,5 @@ $ conda install -c conda-forge/label/gcc7 folium
 $ conda install -c conda-forge/label/cf201901 folium
  
    
-   
+# ##############
+# It seems that GitHub is not able to display a dynamic map, so the heatmap should be checked locally after clonning the zhufeng_qiu.ipynb.
